@@ -204,4 +204,4 @@ Le modèle retenu (régression logistique + 15 features métier, seuil 0,245) at
 - Documentation pandas : https://pandas.pydata.org/
 - Seaborn — Visualisation de données statistiques : https://seaborn.pydata.org/
 - Dictionnaire des variables du concours (`ressources/data_dictionary.csv`) et énoncé (`ressources/readme-model.md`)
-- Outils d'IA générative utilisés : assistante IA de développement (classeur notebook, rédaction de sections du rapport) — Claude code et aussi opencode avec deepseek max
+- Outils d'IA générative utilisés : assistante IA de développement (classeur notebook, rédaction de sections du rapport) — Claude code et aussi opencode avec deepseek max, Elevenlabs pour la generation de parole
