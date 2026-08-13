@@ -64,8 +64,8 @@ Voici la liste des fichiers et liens importants permettant d’évaluer votre tr
 
 **Liens utiles :**
 
-- Lien vidéo de présentation : *(à renseigner)*
-- Lien du dépôt GitHub : *(à renseigner)*
+- Lien vidéo de présentation : https://www.youtube.com/watch?v=-acVHb_w6Og
+- Lien du dépôt GitHub : https://github.com/loomrkt/ML-13-08-2026-groupe-NSDuo
 
 ---
 
@@ -204,4 +204,4 @@ Le modèle retenu (régression logistique + 15 features métier, seuil 0,245) at
 - Documentation pandas : https://pandas.pydata.org/
 - Seaborn — Visualisation de données statistiques : https://seaborn.pydata.org/
 - Dictionnaire des variables du concours (`ressources/data_dictionary.csv`) et énoncé (`ressources/readme-model.md`)
-- Outils d'IA générative utilisés : assistante IA de développement (classeur notebook, rédaction de sections du rapport) — contribution : aide à la structuration du pipeline et relecture du code ; toutes les analyses, métriques et interprétations ont été produites et vérifiées sur les données réelles.
+- Outils d'IA générative utilisés : assistante IA de développement (classeur notebook, rédaction de sections du rapport) — Claude code et aussi opencode avec deepseek max
